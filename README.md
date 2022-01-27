@@ -1,17 +1,22 @@
-## Hi  <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> I'm "Gursimran Singh"
 
 #### :octocat: 👽 ⚓  
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=gursimransinghk.visitor-badge&left_color=green&right_color=skyblue)
+<h1 align="center">Hi  <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">, I'm Gursimran Singh</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gursimransinghk&label=Profile%20views&color=0e75b6&style=flat" alt="gursimransinghk" /> </p>
 
-## Social Accounts 😎-->
+- 📫 How to reach me **gursimransinghk1@gmail.com**
 
-[![Linkedin Badge](https://img.shields.io/badge/-gursimransinghk-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gursimransinghk/)
+- ⚡ Fun fact **I'm Electrical and Computer Engineer**
 
-[![Mail Badge](https://img.shields.io/badge/-gursimransinghk-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/gursimransinghk)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/gur94k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gur94k" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/gursimransinghk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gursimransinghk" height="30" width="40" /></a>
+<a href="https://fb.com/gursimransinghk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gursimransinghk" height="30" width="40" /></a>
+<a href="https://instagram.com/gursimransinghk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gursimransinghk" height="30" width="40" /></a>
+</p>
 
-[![Twitter Badge](https://img.shields.io/badge/-gur94k-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/gur94k)](https://twitter.com/gur94k) 
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/gursimransinghk"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="gursimransinghk" /></a></p><br><br>
 
-[![Mail Badge](https://img.shields.io/badge/-gursimransinghk1@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:gursimransinghk1@gmail.com)
-
-©️ gursimransinghk
+<p><a href="https://paypal.me/gursimransinghk1?country.x=CA&locale.x=en_US" class="flex items-center justify-evenly bg-white-500 text-white py-2 px-4 my-2 border border-solid" target="_blank" rel="noreferrer"><img class="w-32 h-4" src="https://cdn.worldvectorlogo.com/logos/paypal-2.svg" alt="Donate rahuldkjain via paypal"></a></p>
