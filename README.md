@@ -5,11 +5,4 @@
 
 ## Social Accounts 😎-->
 
-Instagram --> https://www.instagram.com/gursimransinghk
-
-fabebook --> https://www.fb.com/gursimransinghk
-
-
-###### WEBSITE ######
-
-https://gursimransinghk.github.io/
+[![Twitter Badge](https://img.shields.io/badge/-gursimransinghk-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/gur94k)](https://twitter.com/gur94k) [![Mail Badge](https://img.shields.io/badge/-gursimransinghk-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://youtube.com/gursimransinghk) [![Linkedin Badge](https://img.shields.io/badge/-gursimransinghk-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/gursimransinghk/) [![Mail Badge](https://img.shields.io/badge/-gursimransinghk-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/gursimransinghk) [![Mail Badge](https://img.shields.io/badge/-gursimransinghk-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:gursimransinghk1@gmail.com)
