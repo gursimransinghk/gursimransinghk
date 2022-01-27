@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### :octocat: 👽 ⚓  ![visitors](https://visitor-badge.glitch.me/badge?page_id=gursimransinghk.visitor-badge&left_color=white&right_color=skyblue)
+#### :octocat: 👽 ⚓  ![visitors](https://visitor-badge.glitch.me/badge?page_id=gursimransinghk.visitor-badge&left_color=green&right_color=skyblue)
 
 ## Social Accounts 😎-->
 
