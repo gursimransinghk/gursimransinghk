@@ -1,5 +1,5 @@
 ### Hi there 👋
 
 Social Accounts -->
-Instagram --> https://www.instagram.com/gursimransinghk
-fabebook --> https://www.fb.com/gursimransinghk
+\n Instagram --> https://www.instagram.com/gursimransinghk
+\n fabebook --> https://www.fb.com/gursimransinghk
