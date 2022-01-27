@@ -11,4 +11,4 @@ fabebook --> https://www.fb.com/gursimransinghk
 
 ###### WEBSITE ######
 
-https://www.gursimransinghk.github.io
+https://gursimransinghk.github.io/
