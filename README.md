@@ -1,12 +1,10 @@
 
-#### :octocat: 👽 ⚓  
-
 <h1 align="center">Hi  <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">, I'm Gursimran Singh</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gursimransinghk&label=Profile%20views&color=0e75b6&style=flat" alt="gursimransinghk" /> </p>
 
 - 📫 How to reach me **gursimransinghk1@gmail.com**
 
-- ⚡ Fun fact **I'm Electrical and Computer Engineer**
+- ⚡ Fun fact **I'm Electrical and Computer Engineer**  :octocat: 👽 ⚓
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -18,5 +16,3 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/gursimransinghk"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="gursimransinghk" /></a></p><br><br>
-
-<p><a href="https://paypal.me/gursimransinghk1?country.x=CA&locale.x=en_US" class="flex items-center justify-evenly bg-white-500 text-white py-2 px-4 my-2 border border-solid" target="_blank" rel="noreferrer"><img class="w-32 h-4" src="https://cdn.worldvectorlogo.com/logos/paypal-2.svg" alt="Donate rahuldkjain via paypal"></a></p>
