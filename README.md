@@ -1,18 +1,45 @@
+<h1 align="center">Hello, world! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" alt="hello gif"> I'm Gursimran Singh</h1>
 
-<h1 align="center">Hi  <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">, I'm Gursimran Singh</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gursimransinghk&label=Profile%20views&color=0e75b6&style=flat" alt="gursimransinghk" /> </p>
+<p align="center">Electrical and Computer Engineer 💡 | Passionate Technologist 🖥️ | Open Source Contributor 🌍</p>
 
-- 📫 How to reach me **gursimransinghk1@gmail.com**
-
-- ⚡ Fun fact **I'm Electrical and Computer Engineer**  :octocat: 👽 ⚓
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/gur94k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gur94k" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/gursimransinghk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gursimransinghk" height="30" width="40" /></a>
-<a href="https://fb.com/gursimransinghk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gursimransinghk" height="30" width="40" /></a>
-<a href="https://instagram.com/gursimransinghk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gursimransinghk" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=gursimransinghk&label=Profile%20Views&color=0e75b6&style=flat" alt="gursimransinghk" />
 </p>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/gursimransinghk"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="gursimransinghk" /></a></p><br><br>
+---
+
+### 🛠️ Tools & Technologies:
+<p align="center">
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/RaspberryPi-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=white" alt="Raspberry Pi" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" alt="Arduino" />
+</p>
+
+---
+
+### 🌐 Connect with me:
+<p align="center">
+<a href="https://twitter.com/gur94k"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
+<a href="https://linkedin.com/in/gursimransinghk"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://fb.com/gursimransinghk"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
+<a href="https://instagram.com/gursimransinghk"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+</p>
+
+---
+
+### ☕ Support my work:
+<p align="center">
+  <a href="https://www.buymeacoffee.com/gursimransinghk"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" alt="Buy Me A Coffee"></a>
+</p>
+
+---
+
+<p align="center">
+  📫 Reach out to me at <a href="mailto:gursimransinghk1@gmail.com">gursimransinghk1@gmail.com</a>
+</p>
+
+<p align="center">
+  ⚡ Fun fact: I can solve a Rubik's cube in under a minute! 🎲
+</p>
+
