@@ -15,6 +15,10 @@
   <img src="https://img.shields.io/badge/RaspberryPi-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=white" alt="Raspberry Pi" />
   <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" alt="Arduino" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" alt="Mongo" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=flat-square" alt="Express.js" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node-dot-js&logoColor=white" alt="Node.js" />
+
 
 </p>
 
